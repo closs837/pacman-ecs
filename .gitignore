@@ -1,4 +1,13 @@
-
-Temp/UnityLockfile
-Library/SourceAssetDB
-Library/SourceAssetDB
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.user
+.DS_Store
